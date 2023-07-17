@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-I'm currently a graduate student at NYU, pursuing an MS in Computer Engineering. I aspire to make meaningful contributions with my technical skills. I love all things code and all things food 
+I'm currently a graduate student at NYU, pursuing an MS in Computer Engineering.   
 
 
 ## 🌐 Socials:
