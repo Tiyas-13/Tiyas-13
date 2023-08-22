@@ -9,6 +9,8 @@ I'm currently a graduate student at NYU, pursuing an MS in Computer Engineering.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tiyas-dey-623b6818b/) 
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?logo=page)](https://tiyas-13.github.io/tiyas-portfolio/) 
+
 # 💻 Tech Stack:
 - **Coding Languages:** Java, Python, C
 - **Frameworks:** React.js, Flask, Django, Spring Boot, React Native, Angular
